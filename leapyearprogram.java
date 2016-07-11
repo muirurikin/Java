@@ -1,4 +1,4 @@
-```java
+
 /**
  * Created by alexona on 7/11/16.
  */
@@ -17,4 +17,4 @@ class LeapYear
         System.out.println("leapyear="+leapyear);
     }
 }
-```
+
