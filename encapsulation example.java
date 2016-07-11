@@ -1,4 +1,4 @@
-```java
+
 private String myField;
 
 public String getMyField()
@@ -10,5 +10,4 @@ public void setMyField(String value)
 {
     
      this.myField = value;
-}
-```
+     }
